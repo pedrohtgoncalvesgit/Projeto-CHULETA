@@ -19,7 +19,7 @@ $num_linhas = $lista->num_rows;
         <!-- mostrar se a consulta retornar vazia -->
         <?php if($num_linhas == 0){?>
             <h2 class="breadcrumb alert-danger">
-                Não há produtos em Destaque
+                Não há produtos em Destaque+++++++
             </h2>
         <?php }?>
 
